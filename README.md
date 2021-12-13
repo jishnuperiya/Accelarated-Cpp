@@ -1,3 +1,3 @@
 # Accelarated C++ - Exercises and Examples
  
-![Accelarated C++ Book Cover](https://your-copied-image-address)
+![Accelarated C++ Book Cover](https://github.com/jishnuperiya/Accelarated-Cpp/blob/main/images/book_cover.JPG)
