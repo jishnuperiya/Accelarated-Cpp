@@ -1,2 +1,2 @@
-# Examples and exercises form Accelarated-Cpp book
+# Accelarated-Cpp - Exercises from each chapter
  
