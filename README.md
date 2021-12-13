@@ -1,2 +1,2 @@
-# Accelarated-Cpp - Exercises from each chapter
+# Accelarated C++ - Exercises and Examples
  
