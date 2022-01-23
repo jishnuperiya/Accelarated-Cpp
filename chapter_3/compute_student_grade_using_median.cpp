@@ -21,7 +21,7 @@ int main()
     cout << "Hello, " << name << endl;
     
     // ask for and read midterm and final grade
-    cout << " please enter your midterm and final grades :" << endl;
+    cout << " please enter your midterm and final grades!! :" << endl;
     double midterm ,final;
     cin >>midterm>>final;
     
